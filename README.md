@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá eu sou o Eduardo Santana 👋
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 <!--
 **He4tzera/He4tzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

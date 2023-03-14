@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=He4tzera&theme=tokyonight&layout=compact)](https://github.com/He4tzera/github-readme-stats)
 
 ### Tecnologias que estou aprendendo 
-[![SQL]([https://discord.com/channels/420342445042171907/845767114799448144/1085007564175052840]()
+[![SQL](https://media.discordapp.net/attachments/845767114799448144/1085007563994714112/Sem_Titulo-2.png)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()

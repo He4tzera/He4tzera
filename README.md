@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-santana-de-lima-gouveia-612945192/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=He4tzera&theme=tokyonight&layout=compact)](https://github.com/He4tzera/github-readme-stats)
 
 <hr>

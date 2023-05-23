@@ -6,9 +6,8 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=He4tzera&theme=tokyonight&layout=compact)](https://github.com/He4tzera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=He4tzera&langs_count=5&theme=vue)](https://github.com/He4tzera/github-readme-stats)
 
-<hr>
 
 ### Tecnologias que estou aprendendo 
 [![SQL](https://media.discordapp.net/attachments/845767114799448144/1085007563994714112/Sem_Titulo-2.png)]()

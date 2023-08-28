@@ -6,7 +6,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=He4tzera&langs_count=5&theme=vue)](https://github.com/He4tzera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=He4tzera&layout=compact&langs_count=5&theme=dracula)](https://github.com/He4tzera/github-readme-stats)
 
 
 ### Tecnologias que estou aprendendo 
